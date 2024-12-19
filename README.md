@@ -62,5 +62,5 @@
 - Разработать графический интерфейс пользователя (GUI).
 
 ## Автор
-Ваше имя (Mukhametali Jetikov)  
+Mukhametali Jetikov  
 [Ваш профиль GitHub](https://github.com/aligarkh7)
