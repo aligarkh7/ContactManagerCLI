@@ -63,4 +63,4 @@
 
 ## Автор
 Mukhametali Jetikov  
-[Ваш профиль GitHub](https://github.com/aligarkh7)
+[Профиль GitHub](https://github.com/aligarkh7)
